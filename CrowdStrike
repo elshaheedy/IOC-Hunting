@@ -1,0 +1,59 @@
+# IOC-Hunting / CrowdStrike-Campaign
+
+## Description
+
+This repository focuses on analyzing and hunting Indicators of Compromise (IOCs) related to a recent malware campaign involving fake CrowdStrike recruiters. The campaign distributes malware through phishing emails, leading to the installation of a cryptocurrency miner (XMRig) on victims' systems.
+
+---
+
+### Indicators of Compromise (IOCs)
+
+#### MD5 Hashes
+
+```
+7d6b277566cd13c79fc985cd532837ae
+894418c09c8e3add9286bd62e570faed
+df4417ad455d80fa25493eed05d9577c
+3507681832e06762782432accd8a7a95
+467c300ffccaae96a568700dca5a4590
+16c4ce73d7d5ecb14923da080a5edccd
+9e2a32ed90087768cbb9c784353c441f
+6bec07043fc205ed50810bb9316c8148
+0952e14f5fcf7d08384bcf043a5deb4d
+68727f0b3cd3d7a88a42df8abe811090
+```
+
+#### IP Addresses
+
+```
+51.124.78.146
+91.227.33.146
+93.115.172.41
+80.78.24.30
+```
+
+#### Domains
+
+```
+cscrm-hiring.com
+miningpoolstats.stream
+```
+
+#### URLs
+
+```
+http://93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
+https://cscrm-hiring.com
+```
+
+#### Email Addresses
+
+```
+support@cscrm-hiring.com
+hiring@cscrm-hiring.com
+```
+
+---
+
+**Note:** This repository is dedicated to IOC (Indicators of Compromise) malware analysis and hunting. It provides tools, scripts, and resources for identifying, analyzing, and mitigating malware threats by focusing on IOCs. Ideal for cybersecurity professionals and researchers looking to enhance their threat detection and response capabilities.
+```
